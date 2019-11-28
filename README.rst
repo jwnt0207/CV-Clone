@@ -7,7 +7,7 @@ Credits
 
 Latex is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia. You can find out more about it here: http://www.latex-project.org/
 
-If you are looking for latex resume templates, I would recommend looking at this nice list an anonymous person put together: http://linuxandfriends.com/2009/12/28/latex-resume-templates/
+If you are looking for latex resume templates, I would recommend looking at this nice list an anonymous person put together: https://web.archive.org/web/20121015093520/http://www.linuxandfriends.com/2009/12/28/latex-resume-templates/
 
 The moderncv theme for my resume is contributed by Xavier Danaux and can be downloaded here: http://tug.ctan.org/tex-archive/macros/latex/contrib/moderncv/
 
